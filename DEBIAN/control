@@ -1,0 +1,10 @@
+Package: drauger-splash
+Version: 0.0.1
+Maintainer: Thomas Castleman <batcastle@draugeros.org>
+Section: kde
+Homepage: https://github.com/drauger-os-development/drauger-splash
+Architecture: all
+Priority: optional
+Depends: plasma-desktop
+Description: KDE Plasma Splash Screen for Drauger OS
+ Simple splash screen for Drauger OS 7.7+ on KDE Plasma
