@@ -36,7 +36,7 @@ Image {
         source: "images/rectangle.svg"
 		// Drauger OS logo
         Image {
-            source: "images/logo.svg"
+            source: "images/logo.png"
             anchors.centerIn: parent
         }
 		// Grey rectangle
